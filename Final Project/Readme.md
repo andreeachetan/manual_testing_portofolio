@@ -12,7 +12,7 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 # Functional specifications
 
-The below Story was created in JIRA and describes the functional specifications of the Admin module, for which the final project is performed upon.
+The below Story was created in JIRA and describes the functional specifications of the __User Management__ and __Job__ for which the final project is performed upon.
 
 ![Story](https://user-images.githubusercontent.com/124868250/231396210-8bb03b26-0cbb-4c3c-a754-c6af95f8da87.jpg)
 
@@ -23,6 +23,6 @@ The below Story was created in JIRA and describes the functional specifications 
 
 ## 1.1 Test Planning
 
-The Test Plan is designed to describe all details of testing for the Admin module from the OrangeHRM application.
+The Test Plan is designed to describe all details of testing for the __Admin__ module from the OrangeHRM application.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
