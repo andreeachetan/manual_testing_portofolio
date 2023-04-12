@@ -36,6 +36,20 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 ### 1.1.2 Entry criteria defined
 
-- functional specifications are defined
+- requirements are defined and approved
 - roles needed for the project are allocated
 - initial project risks were detected and mitigated
+- availability of the test environment
+- test tools are ready to use
+- test data is available and validated for correctness
+
+### 1.1.3 Exit criteria defined
+
+- execution and updating of all test cases
+- all resolved bugs have been re-tested and approved by the QA team
+- no high priority or severity or critical bug has been left out
+- all the identified defects are corrected and closed
+- high risk areas are completely tested
+- exploratory regression testing must be performed on the Admin module, which includes the User Management section and Job section
+- software development activities are completed within the projected cost
+- deadline was reached
