@@ -39,7 +39,6 @@ The plan identifies the items to be tested, the features to be tested, the types
 - Requirements are defined and approved
 - Roles needed for the project are allocated
 - Initial project risks were detected and mitigated
-- Availability of the test environment
 - Test tools are ready to use
 - Test data is available and validated for correctness
 
@@ -53,3 +52,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 - Exploratory regression testing must be performed on the __Admin__ module, which include the __User Management__ section and __Job__ section
 - Software development activities are completed within the projected cost
 - Deadline was reached
+
+### 1.1.4 Test scope
+
+- Tests in scope: __User Management__ and __Job__ section of __Admin__ module which were defined in software requirement specification need to be tested: functional testing, GUI testing and Usability testing.
+- Tests not in scope: acceptance testing, performance testing, integrations of the __Admin__ module with other modules, compatibility testing with multiple browsers and portability testing across multiple environments.
