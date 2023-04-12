@@ -6,6 +6,6 @@ Application under test: https://opensource-demo.orangehrmlive.com/
 
 API Documentation: https://simple-books-api.glitch.me
 
-The final project will be split into 2 sections: Testing section and SQL section.
+######The final project will be split into 2 sections: Testing section and SQL section.
 
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
