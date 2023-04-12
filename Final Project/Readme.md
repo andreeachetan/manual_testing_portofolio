@@ -55,5 +55,14 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 ### 1.1.4 Test scope
 
-- Tests in scope: __User Management__ and __Job__ section of __Admin__ module which were defined in software requirement specification need to be tested: functional testing, GUI testing and Usability testing.
+- Tests in scope: __User Management__ and __Job__ section of __Admin__ module which were defined in software requirement specification need to be tested: Functional testing, GUI testing and Usability testing.
 - Tests not in scope: acceptance testing, performance testing, integrations of the __Admin__ module with other modules, compatibility testing with multiple browsers and portability testing across multiple environments.
+
+### 1.1.5 Risks detected
+
+Project risks:
+- Lack of experience of the QA team
+- Short deadline of Zephyr Squad trial
+- Unavailability of test environment
+
+Product risks: validation constraints on the fields might be too restrictive to the end-user.
