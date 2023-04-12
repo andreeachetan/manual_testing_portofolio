@@ -41,6 +41,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 - Initial project risks were detected and mitigated
 - Test tools are ready to use
 - Test data is available and validated for correctness
+- Test environment is available and ready to use
 
 ### 1.1.3 Exit criteria defined
 
@@ -61,8 +62,18 @@ The plan identifies the items to be tested, the features to be tested, the types
 ### 1.1.5 Risks detected
 
 Project risks:
-- Lack of experience of the QA team
+- Beginner QA team
 - Short deadline of Zephyr Squad trial
 - Unavailability of test environment
 
-Product risks: validation constraints on the fields might be too restrictive to the end-user.
+Product risks: 
+- Validation constraints on the fields might be too restrictive to the end-user
+- If the software has problems related to a particular quality characteristic, which might not be functionality, but rather security, reliability, maintainability or performance.
+
+### 1.1.6 Evaluating entry criteria
+The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
+
+## 1.2 Test Monitoring and Control
+
+
+
